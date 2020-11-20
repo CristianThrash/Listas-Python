@@ -3,7 +3,7 @@ Created on 18/02/2017
 
 @author: Grabriela Ladino 20151020073, Brian Rodriguez 20151020600, Cristian Bernal 20151020523
 '''
-
+# Actualización
 '''Retorna la suma de los elementos de una lista de enteros dada'''
 def sumarLista(lista):
     if(lista==[]):
